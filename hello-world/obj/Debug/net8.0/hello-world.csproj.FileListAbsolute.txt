@@ -1,0 +1,15 @@
+/home/guilherme/Documentos/GitHub/c-sharp/hello-world/bin/Debug/net8.0/hello-world
+/home/guilherme/Documentos/GitHub/c-sharp/hello-world/bin/Debug/net8.0/hello-world.deps.json
+/home/guilherme/Documentos/GitHub/c-sharp/hello-world/bin/Debug/net8.0/hello-world.runtimeconfig.json
+/home/guilherme/Documentos/GitHub/c-sharp/hello-world/bin/Debug/net8.0/hello-world.dll
+/home/guilherme/Documentos/GitHub/c-sharp/hello-world/bin/Debug/net8.0/hello-world.pdb
+/home/guilherme/Documentos/GitHub/c-sharp/hello-world/obj/Debug/net8.0/hello-world.GeneratedMSBuildEditorConfig.editorconfig
+/home/guilherme/Documentos/GitHub/c-sharp/hello-world/obj/Debug/net8.0/hello-world.AssemblyInfoInputs.cache
+/home/guilherme/Documentos/GitHub/c-sharp/hello-world/obj/Debug/net8.0/hello-world.AssemblyInfo.cs
+/home/guilherme/Documentos/GitHub/c-sharp/hello-world/obj/Debug/net8.0/hello-world.csproj.CoreCompileInputs.cache
+/home/guilherme/Documentos/GitHub/c-sharp/hello-world/obj/Debug/net8.0/hello-world.sourcelink.json
+/home/guilherme/Documentos/GitHub/c-sharp/hello-world/obj/Debug/net8.0/hello-world.dll
+/home/guilherme/Documentos/GitHub/c-sharp/hello-world/obj/Debug/net8.0/refint/hello-world.dll
+/home/guilherme/Documentos/GitHub/c-sharp/hello-world/obj/Debug/net8.0/hello-world.pdb
+/home/guilherme/Documentos/GitHub/c-sharp/hello-world/obj/Debug/net8.0/hello-world.genruntimeconfig.cache
+/home/guilherme/Documentos/GitHub/c-sharp/hello-world/obj/Debug/net8.0/ref/hello-world.dll
